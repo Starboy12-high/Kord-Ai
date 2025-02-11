@@ -1,10 +1,10 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "1234564789", // your number with country code
-  OWNER_NAME: 'シ', // your owner name 
-  BOT_NAME: 'Kord AI', // your preferred bot name
-  SESSION_ID: '', // replace your_sessionid with yours and make sure its inside the 
+  OWNER_NUMBERS: "233591974789", // your number with country code
+  OWNER_NAME: 'starboy', // your owner name 
+  BOT_NAME: 'starboy', // your preferred bot name
+  SESSION_ID: 'kord_ai-b7xfKasG6h1b', // replace your_sessionid with yours and make sure its inside the 
   INVINCIBLE_MODE: true, // toogle invincible mode 
   WORK_MODE: 'public',
   TIME_ZONE: "Africa/Lagos",
@@ -39,8 +39,8 @@ global.settings = {
   ANTI_EDIT_IN_CHAT: false,
   ANTI_PM_SPAM: false, //pm permit 
   ANTI_PM_SPAM_COUNT: 6,
-  AUTO_TYPING: false, // if you wnat the bot to be typing always 
+  AUTO_TYPING: true, // if you wnat the bot to be typing always 
   AUTO_RECORDING: false, //if you want the bot to be recording always
-  ALWAYS_ONLINE: false,
+  ALWAYS_ONLINE: true,
 
 };
